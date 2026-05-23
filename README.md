@@ -104,28 +104,14 @@ Me chamo Jonatan, tenho 19 anos e sou natural do Ceará. Concluí o ensino médi
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=JonatanHZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=JonatanHZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"
   />
 
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanHZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanHZ&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1800"
   />
 </p>
-<!--
-**JonatanHZ/JonatanHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
